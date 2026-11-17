@@ -1,0 +1,1 @@
+python-telegram-bot>=21.6,<23\npsutil>=6,<8\naiohttp>=3.10,<4\n
